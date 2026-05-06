@@ -17,7 +17,7 @@ Minimalist Design: Follows the "Clean & Stable" aesthetic to match the overall s
 To run this application, you must have Python and pip installed on your system.
 
 1. Clone the Repository
-git clone https://github.com/archiveos-owner/archiveos-welcome
+git clone https://github.com/toprakkbaykuslar/archiveos-welcome
 cd archiveos-welcome
 2. Install Dependencies
 
